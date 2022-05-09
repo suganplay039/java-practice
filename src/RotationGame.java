@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class RotationGame {
+public class RotationGame {
+    public static void main(String[] args) {
+        System.out.println("Welcome");
+    }
 }
